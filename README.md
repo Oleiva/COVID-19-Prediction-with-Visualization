@@ -1,6 +1,5 @@
 # COVID-19 Prediction with Visualization
 
----
 
 # Analysis of Novel Corona Virus 2019 (COVID-19) Dataset
 
